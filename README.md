@@ -168,3 +168,20 @@ Cada modalidade agora tem:
 🏆 Badges nos jogos salvos
 💎 Animações e efeitos visuais
 Todas as 11 modalidades principais das Loterias Caixa agora estão completas! 🎲🏆
+
+
+Funcionalidades Completas Adaptadas:
+✅ 6 números (01-50) + 2 trevos (1-6)
+✅ R$ 6,00 fixo por jogo
+✅ Edição Manual com validação dupla
+✅ Drag & Drop de números, trevos e arquivos
+✅ Grid 7x8 + grid especial de trevos
+✅ Análise por 6+2 posições individuais
+✅ Grid estratégica com categorização dupla
+✅ Palpites inteligentes adaptados
+✅ Downloads em HTML/TXT/XLSX
+✅ Padrão histórico (3P/3I - 28.5%)
+✅ API específica da +Milionária
+✅ Controle duplo de sorteados (números + trevos)
+✅ Estratégia de pares/ímpares visual
+✅ Sistema único de trevos da sorte
